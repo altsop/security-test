@@ -1,0 +1,3 @@
+rootProject.name = 'security-tests-2'
+include 'backend'
+
